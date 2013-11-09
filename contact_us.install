@@ -10,6 +10,7 @@
  */
 function contact_us_install() {
     
+    
 }
 
 /**
@@ -17,4 +18,5 @@ function contact_us_install() {
  */
 function contact_us_uninstall() {
 
+    
 }
