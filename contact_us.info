@@ -1,0 +1,6 @@
+name = Contact us
+description = Add form contact and config for drupal
+;package = 
+version = 1.0
+core = 7.x
+;configure = admin/content/book/settings
